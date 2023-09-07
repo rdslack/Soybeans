@@ -17,3 +17,8 @@ The analysis determined the following:
 - Yield was moderately correlated to soybean price and accounted for 17% of price variation.
 - Max, mean, and min temperatures were not correlated to yield (nearly zero correlation)
 
+The RStudio environment file, which includes the dataframes and objects used in the analysis,
+is available on the following public Google Drive folder: 
+[RStudio Environment](https://drive.google.com/drive/folders/1vjEwdSvVA6_qDFj0Gg-tfMEPeaG029AQ?usp=drive_link)
+
+The "Soybean Yields in a Changing Climate" report is hosted at [reedslack.com](https://www.reedslack.com)
